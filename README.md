@@ -1,8 +1,10 @@
 # About Resizer
-This is an AppleScript extension that will resize and relocate the current window to different places on your screen according to the given command.
+This is an [Alfred](http://www.alfredapp.com) extension that will resize and relocate the current window to different places on your screen according to the given command. Please note that you will need the [Alfred Powerpack](http://www.alfredapp.com/powerpack) to use this extension.
+
+# Install Resizer
+Download [Resizer.alfredextension](https://github.com/downloads/brickattack/Alfred-Resizer/Resizer.alfredextension) and double-click to open it in Alfred. From there you will be able to configure a different keyword, etc.
 
 # How to use Resizer
-
 Keyword:
 
   'r'
