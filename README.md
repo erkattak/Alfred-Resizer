@@ -21,3 +21,6 @@ Commands:
 - 'tr' - half height, half width and moved to the top right corner
 - 'bl' - half height, half width and moved to the bottom left corner
 - 'br' - half height, half width and moved to the bottom right corner
+
+# Known Issues
+Doesn't work with some programs. Not sure why yet. If anyone has a solution, feel free to make a pull request.
