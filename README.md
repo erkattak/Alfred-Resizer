@@ -12,6 +12,7 @@ Keyword:
 Commands:
 
 - 'f' - fill the screen (not Lion fullscreen)
+- 'c' - in the center of screen
 - 'm' - mid-sized in the middle of the screen
 - 'l' - full height, half width and moved to the left side
 - 'r' - full height, half width and moved to the right side
